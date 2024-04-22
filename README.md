@@ -1,4 +1,4 @@
-# ESP OS ![Logo](https://github.com/KrajaniXPolska1/ESP_OS/blob/main/logo.png)
+# ESP OS ![Logo](https://github.com/KranXD/ESP_OS/blob/main/logo.png)
 ## The first ever Operating system for your ESP device
 
 ESP OS is first(but not least) Operating system for ESP8266 NodeMCu v2.
