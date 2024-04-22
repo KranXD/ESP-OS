@@ -10,7 +10,7 @@ To unleash the full capabilities of this operating system, connect the [Oled dis
 - Working startup proccess
 - Some commands
 - Working internet connection
-//- Working desktop environment. Download it from [here](https://github.com/KrajaniXPolska1/Espie).
+// - Working desktop environment. Download it from [here](https://github.com/KrajaniXPolska1/Espie).
 
   
 # Commands
