@@ -5,14 +5,12 @@ ESP OS is first(but not least) Operating system for ESP8266 NodeMCu v2.
 
 To unleash the full capabilities of this operating system, connect the [Oled display](https://abc-rc.pl/pl/products/wyswietlacz-oled-0-96-128x64-na-i2c-ssd1306-bialy-12052.html) to your ESP device.
 
-Download ESP OS from [here](https://github.com/KrajaniXPolska1/ESP_OS/releases).
-
 ## Features
 
 - Working startup proccess
 - Some commands
 - Working internet connection
-- Working desktop environment. Download it from [here](https://github.com/KrajaniXPolska1/Espie).
+//- Working desktop environment. Download it from [here](https://github.com/KrajaniXPolska1/Espie).
 
   
 # Commands
